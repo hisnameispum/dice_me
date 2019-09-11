@@ -1,6 +1,8 @@
 # dice_me
 
-A new Flutter application.
+An Dice Rolling App built using Flutter.
+
+![Dice Me Screenshot](images/screenshot.jpg)
 
 ## Getting Started
 
