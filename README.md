@@ -2,7 +2,7 @@
 
 An Dice Rolling App built using Flutter.
 
-![Dice Me Screenshot](images/screenshot.jpg)
+![Dice Me Screenshot](images/screenshot.png)
 
 ## Getting Started
 
